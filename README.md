@@ -34,7 +34,6 @@
 
 ## `Skills`
 
-```python
 stack = {
    "ML & AI"     : ["XGBoost", "TensorFlow", "PyTorch", "scikit-learn", "SHAP", "LIME", "SMOTE", "FastAPI"],
    "Data Eng"    : ["Apache Airflow", "dbt", "PySpark", "Databricks", "ETL/ELT"],
@@ -42,7 +41,7 @@ stack = {
    "Languages"   : ["Python", "SQL"],
    "Databases"   : ["PostgreSQL", "Redshift", "SAP HANA", "IP.21"],
    "Viz & BI"    : ["Tableau", "Power BI", "Flask", "Streamlit"],
-}}
+}
 ---
 
 ## `Featured Projects`
