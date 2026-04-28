@@ -50,7 +50,7 @@ stack = {
 
 <div align="left">
 
-### 🧠 <b>TEPGuard — Industrial Anomaly Detection System</b>
+### 🧠 <b>TEPGuard: Real-Time Industrial Anomaly Detection with LLM Root Cause Analysis</b>
 
 <sub>
 Real-time anomaly detection pipeline simulating industrial historian data (IP.21 / DCS) using LSTM Autoencoder and LLM-based root cause analysis.
