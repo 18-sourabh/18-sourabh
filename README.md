@@ -43,3 +43,25 @@ stack = {
    "Databases"   : ["PostgreSQL", "Redshift", "SAP HANA", "IP.21"],
    "Viz & BI"    : ["Tableau", "Power BI", "Flask", "Streamlit"],
 }
+---
+
+## `Featured Projects`
+
+<div align="left">
+
+### 🧠 <b>TEPGuard — Industrial Anomaly Detection System</b>
+
+<sub>
+Real-time anomaly detection pipeline simulating industrial historian data (IP.21 / DCS) using LSTM Autoencoder and LLM-based root cause analysis.
+</sub>
+
+- ⚙️ AWS Pipeline: S3 → Lambda → ECS → Streamlit  
+- 📈 LSTM Autoencoder for anomaly detection  
+- 🔍 Feature attribution for root cause signals  
+- 🤖 LLM (Mistral via Ollama) for explainability  
+
+🔗 <a href="https://github.com/18-sourabh/TEPGuard">View Project</a>
+
+</div>
+
+---
