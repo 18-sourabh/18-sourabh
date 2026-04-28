@@ -1,7 +1,7 @@
 <!--
- ╔══════════════════════════════════════════════╗
- ║     Sourabh Shinde — GitHub Profile README   ║
- ╚══════════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║     Sourabh Shinde — GitHub Profile README   ║
+╚══════════════════════════════════════════════╝
 -->
 
 <div align="center">
@@ -24,43 +24,22 @@
 
 > Building systems where **data engineering meets machine learning** — from raw industrial signals to production-grade models.
 
-- 🏭 Currently at **Ingenero Inc. - Westlake Chemicals** — Anomaly Detection, LLM Integration, Data Lake Achitecture in AWS, ELT Pipelines, End-of-Life Prediction, MLOps
-- 🎓 **MS Industrial Engineering specalizing in Data Analytics and Data Science** · Texas A&M University · GPA 3.9/4 · Academic Excellence Award
-- 📄 **5 peer-reviewed publications** in Optimization, Neural Networks and Machine Learning *(Springer · Taylor & Francis)*
-- 🌱 Currently exploring **RAG Models and distributed data systems**
-- 🚀 Fun fact: I like Space
+- 🏭 Currently at **Ingenero Inc. - Westlake Chemicals** — Anomaly Detection, LLM Integration, Data Lake Architecture in AWS, ELT Pipelines, End-of-Life Prediction, MLOps  
+- 🎓 **MS Industrial Engineering (Data Analytics & Data Science)** · Texas A&M University · GPA 3.9/4 · Academic Excellence Award  
+- 📄 **5 peer-reviewed publications** in Optimization, Neural Networks and Machine Learning *(Springer · Taylor & Francis)*  
+- 🌱 Exploring **RAG Systems and Distributed Data Architectures**  
+- 🚀 Fun fact: I like Space  
 
 ---
 
 ## `Skills`
 
+```python
 stack = {
-   "ML & AI"     : ["XGBoost", "TensorFlow", "PyTorch", "scikit-learn", "SHAP", "LIME", "SMOTE", "FastAPI"],
-   "Data Eng"    : ["Apache Airflow", "dbt", "PySpark", "Databricks", "ETL/ELT"],
-   "Cloud"       : ["AWS (S3, Glue, Redshift, RDS, Lambda)", "Docker"],
-   "Languages"   : ["Python", "SQL"],
-   "Databases"   : ["PostgreSQL", "Redshift", "SAP HANA", "IP.21"],
-   "Viz & BI"    : ["Tableau", "Power BI", "Flask", "Streamlit"],
+   "ML & AI"     : ["XGBoost", "TensorFlow", "PyTorch", "scikit-learn", "SHAP", "LIME"],
+   "Data Eng"    : ["Airflow", "dbt", "PySpark", "Databricks", "ETL/ELT"],
+   "Cloud"       : ["AWS (S3, Lambda, Glue, Redshift)", "Docker"],
+   "Languages"   : ["Python", "SQL"],
+   "Databases"   : ["PostgreSQL", "Redshift", "SAP HANA", "IP.21"],
+   "Viz & Apps"  : ["Streamlit", "Flask", "Power BI", "Tableau"]
 }
----
-
-## `Featured Projects`
-
-<div align="left">
-
-### 🧠 <b>TEPGuard — Industrial Anomaly Detection System</b>
-
-<sub>
-Real-time anomaly detection pipeline simulating industrial historian data (IP.21 / DCS) using LSTM Autoencoder and LLM-based root cause analysis.
-</sub>
-
-- ⚙️ AWS Pipeline: S3 → Lambda → ECS → Streamlit  
-- 📈 LSTM Autoencoder for anomaly detection  
-- 🔍 Feature attribution for root cause signals  
-- 🤖 LLM (Mistral via Ollama) for explainability  
-
-🔗 <a href="https://github.com/18-sourabh/TEPGuard">View Project</a>
-
-</div>
-
----
