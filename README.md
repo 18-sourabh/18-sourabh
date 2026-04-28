@@ -43,7 +43,7 @@ stack = {
    "Databases"   : ["PostgreSQL", "Redshift", "SAP HANA", "IP.21"],
    "Viz & Apps"  : ["Streamlit", "Flask", "Power BI", "Tableau"]
 }
-
+```
 ---
 
 ## `Featured Projects`
